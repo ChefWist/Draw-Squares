@@ -1,0 +1,23 @@
+body {
+    font-family:'Arial', Arial, monospace;
+    text-align: center;
+}
+
+#Board {
+    border: 10px solid #000000;
+}
+#size {
+	width: 100px;
+	height: 10px;
+}
+#reset {
+	width: 100px;
+	height: 20px;
+	border: 5px;
+	border-radius: 5px;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	background-color: red;
+	
+}
